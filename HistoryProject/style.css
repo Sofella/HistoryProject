@@ -1,0 +1,198 @@
+*{
+  background-color: #F4F1EA;
+  font-family: Georgia;
+}
+.zahlavi {
+  color: #BC6C25;
+  font-family: Georgia;
+  text-align: center;
+  background-color: 264653;
+  //padding: 20px 30px 10px;
+}
+.allPage {
+  padding: 120px 30px 10px;
+}
+//body.bodyHome {
+  background-image: url("pictures/picture_history.jpg"); 
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: 100% 100%;
+}
+
+h1{
+  font-size: 70px;
+  margin: 30px 0px;
+}
+h2{
+  font-size: 50px;
+  margin-top: 10px;
+}
+h3{
+  font-size: 35px;
+  padding-bottom: 0px;
+  margin-bottom: 5px;
+}
+h4{
+  font-size: 20px;
+  margin: 15px;
+}
+a{
+  color: #DDA15E;
+}
+a:hover {
+  color: #BC6C25;
+}
+.menu li {
+  display: inline-block;
+  height: 10px;
+  padding-top:10px;
+  vertical-align: center;
+  font-family: Georgia;
+  font-size: 25px;
+  background-color: rgb(252, 247, 235);
+}
+ul.menu{
+  background-color: rgb(252, 247, 235);
+  margin: 0px;
+  width: auto;
+  height: auto;
+  //height: 40px;
+  padding: 10px 0px 20px;
+  //border: 20px #DDA15E;
+  text-align: center;
+  //box-sizing: border-box;
+}
+
+.openW{
+  font-weight: bold;
+}
+.menu a{
+  color: #DDA15E;
+  text-decoration: none;
+  padding: 0px 15px;
+  background-color: rgb(252, 247, 235);
+}
+.menu a:hover{
+  color: #BC6C25;
+  background-color: rgb(252, 247, 235);
+}
+.text{
+  //background-color: #f7ac60;
+  padding: 2% 10% 10% 10%;
+}
+.textQuote{
+  padding: 2% 10% 2% 10%;
+}
+body{
+  font-family: Georgia;
+}
+.rok{
+  //background-color: #f7ac60;
+  padding: 30px 10% 20px 10%;
+  text-align: center;
+  font-family: Georgia;
+}
+.inputRok{
+  font-family: Georgia;
+  font-size: 25px;
+}
+.submit{
+  font-family: Georgia;
+  font-size: 25px;
+}
+.quotesheadline{
+  font-size: 25px;
+  text-align: center;
+  padding-top: 0px;
+  margin-top: 0px;
+}
+.QuoteGen{
+  font-family: Georgia;
+  text-align: center;
+}
+button, input{
+  font-family: Georgia;
+  background-color: white;
+  border-radius: 8px;
+  padding: 5px 10px;
+}
+.showQuote{
+  font-size: 30px;
+  padding-right: 170px;
+  padding-left: 170px;
+  font-style: italic;
+}
+.showAuthor{
+  font-size: 30px;
+  padding-right: 170px;
+  padding-left: 170px;
+}
+.infoTimeline{
+  padding-top: 0px;
+  margin:0px;
+  font-size: 20px;
+  //width: 700px;
+}
+.infoTimelineSource{
+  padding-top: 0px;
+  //padding-bottom: 20px;
+  margin:0px;
+  font-size: 20px;
+}
+.timelineTitle{
+  margin-bottom: 10px;
+  width: 700px;
+}
+.yearsBefore{
+  width: 700px;
+  padding-top: 30px;
+  margin-top: 0px;
+}
+.linkOn{
+  font-weight: bold;
+  text-decoration: underline;
+  color: #BC6C25;
+}
+.textTimeline{
+  column-count: 2;
+}
+.timelineGraf{
+  font-size: 100px;
+  margin-bottom: 0px;
+}
+
+.historytimeline{
+  font-size: 25px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.titleTable{
+  font-size: 30px;
+  padding: 10px;
+}
+
+.infoTable{
+  padding: 10px 20px;
+}
+
+.tableDiv{
+  margin-bottom: 50px;
+}
+.artAll.artAll{
+  font-family: Georgia;
+  font-size: 25px;
+  border-radius: 8px;
+  padding: 5px 10px;
+}
+.artAll {
+  text-align: center;
+}
+
+.rulersHeadline {
+  text-align: center;
+  font-size: 30px;
+  margin-bottom: 0;
+}
+
+
